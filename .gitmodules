@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/szn-cs/uw-cs839-project-frontend
+[submodule "contract"]
+	path = contract
+	url = https://github.com/gabrielgozum/erc20dao
+[submodule "contract.backup-fork"]
+	path = contract.backup-fork
+	url = https://github.com/szn-cs/uw-cs839-project-contract
